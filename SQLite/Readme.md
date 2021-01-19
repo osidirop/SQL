@@ -1,4 +1,4 @@
-# READING A DB USING PANDAS
+# SQL Tutorial: https://www.sqlitetutorial.net/
 
 ### The database diagram of the sample db is :
 
